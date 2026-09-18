@@ -219,4 +219,4 @@ PoxNora is provided as a full free version, with all features and updates includ
 Download PoxNora today and embark on your strategic adventure in a fantasy realm!
 
 ---
-**Last updated:** 2026-09-18 10:15:05 UTC
+**Last updated:** 2026-09-18 14:42:13 UTC
